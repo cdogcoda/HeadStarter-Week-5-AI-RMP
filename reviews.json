@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Watson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Watson's lectures are incredibly engaging. Her passion for physics is contagious!"
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Prof. Chen's programming assignments are challenging but rewarding. Great hands-on learning experience."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Johnson's lab sessions are well-organized and insightful. She's always willing to help students."
+      },
+      {
+        "professor": "Prof. David Martinez",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Prof. Martinez knows his stuff, but his teaching style can be a bit dry at times."
+      },
+      {
+        "professor": "Dr. Lisa Thompson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Thompson's case studies are fascinating. She really brings the subject to life."
+      },
+      {
+        "professor": "Prof. Robert Williams",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Williams has a wealth of knowledge. His anecdotes make history lessons memorable."
+      },
+      {
+        "professor": "Dr. Angela Lee",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Lee's experiments are both educational and exciting. She prioritizes lab safety too."
+      },
+      {
+        "professor": "Prof. James Anderson",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Prof. Anderson's reading list is extensive, but his feedback on essays could be more constructive."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Garcia's discussions on current social issues are thought-provoking and balanced."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Prof. Brown's lectures are hard to follow. The course content needs better organization."
+      },
+      {
+        "professor": "Dr. Rachel Kim",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Kim's virtual museum tours are a highlight. She brings art to life even in online classes."
+      },
+      {
+        "professor": "Prof. Alexander Novak",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Prof. Novak encourages critical thinking. His debates are always lively and informative."
+      },
+      {
+        "professor": "Dr. Olivia Patel",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Patel's field trips are eye-opening. She's deeply committed to environmental education."
+      },
+      {
+        "professor": "Prof. Daniel Wright",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Prof. Wright's lectures can be abstract, but he's patient with questions and explanations."
+      },
+      {
+        "professor": "Dr. Sophia Rossi",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Dr. Rossi's enthusiasm for brain research is infectious. Her labs are cutting-edge."
+      },
+      {
+        "professor": "Prof. William Taylor",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Prof. Taylor's real-world business examples make complex concepts easier to grasp."
+      },
+      {
+        "professor": "Dr. Emma Lewis",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Lewis creates a supportive environment for language learning. Her assignments are creative."
+      },
+      {
+        "professor": "Prof. Hassan Ali",
+        "subject": "International Relations",
+        "stars": 4,
+        "review": "Prof. Ali's global perspective enriches class discussions. He's well-versed in current affairs."
+      },
+      {
+        "professor": "Dr. Natalie Wong",
+        "subject": "Astronomy",
+        "stars": 5,
+        "review": "Dr. Wong's stargazing sessions are unforgettable. She makes the cosmos feel accessible."
+      },
+      {
+        "professor": "Prof. Gregory Peters",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Prof. Peters has industry experience, but his lectures could use more practical applications."
+      }
+    ]
+  }
